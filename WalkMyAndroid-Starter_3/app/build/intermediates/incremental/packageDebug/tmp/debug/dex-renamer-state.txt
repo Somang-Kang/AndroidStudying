@@ -1,0 +1,4 @@
+#Thu Feb 18 15:56:33 KST 2021
+base.0=C\:\\androidProject\\WalkMyAndroid-Starter_3\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,246 @@
+[
+    {
+        "merged": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_sync.png.flat",
+        "source": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\sync.png"
+    },
+    {
+        "merged": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_favorite.png.flat",
+        "source": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\src\\main\\res\\drawable-xxhdpi\\ic_favorite.png"
+    },
+    {
+        "merged": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\intermediates\\res\\merged\\debug\\xml_sync_preferences.xml.flat",
+        "source": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\src\\main\\res\\xml\\sync_preferences.xml"
+    },
+    {
+        "merged": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_main.xml.flat",
+        "source": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_messages.png.flat",
+        "source": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\messages.png"
+    },
+    {
+        "merged": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_donut_circle.png.flat",
+        "source": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\src\\main\\res\\drawable\\donut_circle.png"
+    },
+    {
+        "merged": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\intermediates\\res\\merged\\debug\\xml_header_preferences.xml.flat",
+        "source": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\src\\main\\res\\xml\\header_preferences.xml"
+    },
+    {
+        "merged": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icecream_circle.png.flat",
+        "source": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\src\\main\\res\\drawable\\icecream_circle.png"
+    },
+    {
+        "merged": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_messages.png.flat",
+        "source": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\messages.png"
+    },
+    {
+        "merged": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_sync.xml.flat",
+        "source": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\sync.xml"
+    },
+    {
+        "merged": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_shopping_cart.png.flat",
+        "source": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\src\\main\\res\\drawable-xxhdpi\\ic_shopping_cart.png"
+    },
+    {
+        "merged": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_sync.png.flat",
+        "source": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\sync.png"
+    },
+    {
+        "merged": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_status_info.png.flat",
+        "source": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\src\\main\\res\\drawable-xhdpi\\ic_status_info.png"
+    },
+    {
+        "merged": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_shopping_cart.png.flat",
+        "source": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\src\\main\\res\\drawable-mdpi\\ic_shopping_cart.png"
+    },
+    {
+        "merged": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_order.xml.flat",
+        "source": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\src\\main\\res\\layout\\activity_order.xml"
+    },
+    {
+        "merged": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_status_info.png.flat",
+        "source": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\src\\main\\res\\drawable-xxhdpi\\ic_status_info.png"
+    },
+    {
+        "merged": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sync.png.flat",
+        "source": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\sync.png"
+    },
+    {
+        "merged": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\intermediates\\res\\merged\\debug\\layout_settings_activity.xml.flat",
+        "source": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\src\\main\\res\\layout\\settings_activity.xml"
+    },
+    {
+        "merged": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\intermediates\\res\\merged\\debug\\xml_messages_preferences.xml.flat",
+        "source": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\src\\main\\res\\xml\\messages_preferences.xml"
+    },
+    {
+        "merged": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_messages.png.flat",
+        "source": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\messages.png"
+    },
+    {
+        "merged": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_froyo_circle.png.flat",
+        "source": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\src\\main\\res\\drawable\\froyo_circle.png"
+    },
+    {
+        "merged": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_map.png.flat",
+        "source": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\src\\main\\res\\drawable-xhdpi\\ic_map.png"
+    },
+    {
+        "merged": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_favorite.png.flat",
+        "source": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\src\\main\\res\\drawable-mdpi\\ic_favorite.png"
+    },
+    {
+        "merged": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_shopping_cart.png.flat",
+        "source": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\src\\main\\res\\drawable-hdpi\\ic_shopping_cart.png"
+    },
+    {
+        "merged": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_favorite.png.flat",
+        "source": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\src\\main\\res\\drawable-xhdpi\\ic_favorite.png"
+    },
+    {
+        "merged": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_sync.png.flat",
+        "source": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\sync.png"
+    },
+    {
+        "merged": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_messages.png.flat",
+        "source": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\messages.png"
+    },
+    {
+        "merged": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_sync.png.flat",
+        "source": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\sync.png"
+    },
+    {
+        "merged": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_status_info.png.flat",
+        "source": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\src\\main\\res\\drawable-hdpi\\ic_status_info.png"
+    },
+    {
+        "merged": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_map.png.flat",
+        "source": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\src\\main\\res\\drawable-hdpi\\ic_map.png"
+    },
+    {
+        "merged": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_map.png.flat",
+        "source": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\src\\main\\res\\drawable-mdpi\\ic_map.png"
+    },
+    {
+        "merged": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_map.png.flat",
+        "source": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\src\\main\\res\\drawable-xxhdpi\\ic_map.png"
+    },
+    {
+        "merged": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_messages.png.flat",
+        "source": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\messages.png"
+    },
+    {
+        "merged": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_status_info.png.flat",
+        "source": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\src\\main\\res\\drawable-mdpi\\ic_status_info.png"
+    },
+    {
+        "merged": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_favorite.png.flat",
+        "source": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\src\\main\\res\\drawable-hdpi\\ic_favorite.png"
+    },
+    {
+        "merged": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_sync.png.flat",
+        "source": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\sync.png"
+    },
+    {
+        "merged": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_main.xml.flat",
+        "source": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_messages.xml.flat",
+        "source": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\messages.xml"
+    },
+    {
+        "merged": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_shopping_cart.png.flat",
+        "source": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\src\\main\\res\\drawable-xhdpi\\ic_shopping_cart.png"
+    },
+    {
+        "merged": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_messages.png.flat",
+        "source": "C:\\androidProject\\DroidCafeWithSettings_v2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\messages.png"
+    }
+]

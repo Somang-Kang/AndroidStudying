@@ -1,0 +1,11 @@
+com/example/android/walkmyandroidplaces/FetchAddressTask.java
+ com.example.android.walkmyandroidplaces.FetchAddressTask
+ com.example.android.walkmyandroidplaces.FetchAddressTask$OnTaskCompleted
+com/example/android/walkmyandroidplaces/MainActivity.java
+ com.example.android.walkmyandroidplaces.MainActivity
+ com.example.android.walkmyandroidplaces.MainActivity$1
+ com.example.android.walkmyandroidplaces.MainActivity$2
+ com.example.android.walkmyandroidplaces.MainActivity$3
+ com.example.android.walkmyandroidplaces.MainActivity$4
+com/example/android/walkmyandroidplaces/BuildConfig.java
+ com.example.android.walkmyandroidplaces.BuildConfig

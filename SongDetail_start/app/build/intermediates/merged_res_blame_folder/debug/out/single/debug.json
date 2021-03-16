@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "C:\\androidProject\\SongDetail_start\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\androidProject\\SongDetail_start\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\androidProject\\SongDetail_start\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\androidProject\\SongDetail_start\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\androidProject\\SongDetail_start\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\androidProject\\SongDetail_start\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\androidProject\\SongDetail_start\\app\\build\\intermediates\\res\\merged\\debug\\layout_song_list.xml.flat",
+        "source": "C:\\androidProject\\SongDetail_start\\app\\src\\main\\res\\layout\\song_list.xml"
+    },
+    {
+        "merged": "C:\\androidProject\\SongDetail_start\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\androidProject\\SongDetail_start\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\androidProject\\SongDetail_start\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\androidProject\\SongDetail_start\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\androidProject\\SongDetail_start\\app\\build\\intermediates\\res\\merged\\debug\\layout_song_detail.xml.flat",
+        "source": "C:\\androidProject\\SongDetail_start\\app\\src\\main\\res\\layout\\song_detail.xml"
+    },
+    {
+        "merged": "C:\\androidProject\\SongDetail_start\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_song_list.xml.flat",
+        "source": "C:\\androidProject\\SongDetail_start\\app\\src\\main\\res\\layout\\activity_song_list.xml"
+    },
+    {
+        "merged": "C:\\androidProject\\SongDetail_start\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\androidProject\\SongDetail_start\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\androidProject\\SongDetail_start\\app\\build\\intermediates\\res\\merged\\debug\\layout_song_list_content.xml.flat",
+        "source": "C:\\androidProject\\SongDetail_start\\app\\src\\main\\res\\layout\\song_list_content.xml"
+    },
+    {
+        "merged": "C:\\androidProject\\SongDetail_start\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_song_detail.xml.flat",
+        "source": "C:\\androidProject\\SongDetail_start\\app\\src\\main\\res\\layout\\fragment_song_detail.xml"
+    },
+    {
+        "merged": "C:\\androidProject\\SongDetail_start\\app\\build\\intermediates\\res\\merged\\debug\\drawable_beatles_anthology_box.jpg.flat",
+        "source": "C:\\androidProject\\SongDetail_start\\app\\src\\main\\res\\drawable\\beatles_anthology_box.jpg"
+    },
+    {
+        "merged": "C:\\androidProject\\SongDetail_start\\app\\build\\intermediates\\res\\merged\\debug\\layout-w900dp_song_list.xml.flat",
+        "source": "C:\\androidProject\\SongDetail_start\\app\\src\\main\\res\\layout-w900dp\\song_list.xml"
+    },
+    {
+        "merged": "C:\\androidProject\\SongDetail_start\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\androidProject\\SongDetail_start\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\androidProject\\SongDetail_start\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_song_detail.xml.flat",
+        "source": "C:\\androidProject\\SongDetail_start\\app\\src\\main\\res\\layout\\activity_song_detail.xml"
+    },
+    {
+        "merged": "C:\\androidProject\\SongDetail_start\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\androidProject\\SongDetail_start\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\androidProject\\SongDetail_start\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\androidProject\\SongDetail_start\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\androidProject\\SongDetail_start\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\androidProject\\SongDetail_start\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    }
+]

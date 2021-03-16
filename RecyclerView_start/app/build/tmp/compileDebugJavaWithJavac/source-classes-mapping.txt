@@ -1,0 +1,8 @@
+com/example/android/recyclerview/MainActivity.java
+ com.example.android.recyclerview.MainActivity
+ com.example.android.recyclerview.MainActivity$1
+com/example/android/recyclerview/WordListAdapter.java
+ com.example.android.recyclerview.WordListAdapter
+ com.example.android.recyclerview.WordListAdapter$WordViewHolder
+com/example/android/recyclerview/BuildConfig.java
+ com.example.android.recyclerview.BuildConfig

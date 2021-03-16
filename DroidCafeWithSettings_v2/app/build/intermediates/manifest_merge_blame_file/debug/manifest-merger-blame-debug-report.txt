@@ -1,0 +1,73 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.android.droidcafeinput"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="17"
+8-->C:\androidProject\DroidCafeWithSettings_v2\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\androidProject\DroidCafeWithSettings_v2\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\androidProject\DroidCafeWithSettings_v2\app\src\main\AndroidManifest.xml:5:5-33:19
+12        android:allowBackup="true"
+12-->C:\androidProject\DroidCafeWithSettings_v2\app\src\main\AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.1.0] C:\Users\icml\.gradle\caches\transforms-2\files-2.1\73530a2d0c1df4b3085807c82555ce12\core-1.1.0\AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:icon="@mipmap/ic_launcher"
+15-->C:\androidProject\DroidCafeWithSettings_v2\app\src\main\AndroidManifest.xml:7:9-43
+16        android:label="@string/app_name"
+16-->C:\androidProject\DroidCafeWithSettings_v2\app\src\main\AndroidManifest.xml:8:9-41
+17        android:roundIcon="@mipmap/ic_launcher_round"
+17-->C:\androidProject\DroidCafeWithSettings_v2\app\src\main\AndroidManifest.xml:9:9-54
+18        android:supportsRtl="true"
+18-->C:\androidProject\DroidCafeWithSettings_v2\app\src\main\AndroidManifest.xml:10:9-35
+19        android:testOnly="true"
+20        android:theme="@style/AppTheme" >
+20-->C:\androidProject\DroidCafeWithSettings_v2\app\src\main\AndroidManifest.xml:11:9-40
+21        <activity
+21-->C:\androidProject\DroidCafeWithSettings_v2\app\src\main\AndroidManifest.xml:12:9-14:72
+22            android:name="com.example.android.droidcafeinput.SettingsActivity"
+22-->C:\androidProject\DroidCafeWithSettings_v2\app\src\main\AndroidManifest.xml:13:13-45
+23            android:label="@string/title_activity_settings" />
+23-->C:\androidProject\DroidCafeWithSettings_v2\app\src\main\AndroidManifest.xml:14:13-60
+24        <activity
+24-->C:\androidProject\DroidCafeWithSettings_v2\app\src\main\AndroidManifest.xml:15:9-24:20
+25            android:name="com.example.android.droidcafeinput.MainActivity"
+25-->C:\androidProject\DroidCafeWithSettings_v2\app\src\main\AndroidManifest.xml:16:13-41
+26            android:label="@string/app_name"
+26-->C:\androidProject\DroidCafeWithSettings_v2\app\src\main\AndroidManifest.xml:17:13-45
+27            android:theme="@style/AppTheme.NoActionBar" >
+27-->C:\androidProject\DroidCafeWithSettings_v2\app\src\main\AndroidManifest.xml:18:13-56
+28            <intent-filter>
+28-->C:\androidProject\DroidCafeWithSettings_v2\app\src\main\AndroidManifest.xml:19:13-23:29
+29                <action android:name="android.intent.action.MAIN" />
+29-->C:\androidProject\DroidCafeWithSettings_v2\app\src\main\AndroidManifest.xml:20:17-69
+29-->C:\androidProject\DroidCafeWithSettings_v2\app\src\main\AndroidManifest.xml:20:25-66
+30
+31                <category android:name="android.intent.category.LAUNCHER" />
+31-->C:\androidProject\DroidCafeWithSettings_v2\app\src\main\AndroidManifest.xml:22:17-77
+31-->C:\androidProject\DroidCafeWithSettings_v2\app\src\main\AndroidManifest.xml:22:27-74
+32            </intent-filter>
+33        </activity>
+34        <activity
+34-->C:\androidProject\DroidCafeWithSettings_v2\app\src\main\AndroidManifest.xml:25:9-32:20
+35            android:name="com.example.android.droidcafeinput.OrderActivity"
+35-->C:\androidProject\DroidCafeWithSettings_v2\app\src\main\AndroidManifest.xml:26:13-42
+36            android:label="@string/title_activity_order"
+36-->C:\androidProject\DroidCafeWithSettings_v2\app\src\main\AndroidManifest.xml:27:13-57
+37            android:parentActivityName="com.example.android.droidcafeinput.MainActivity" >
+37-->C:\androidProject\DroidCafeWithSettings_v2\app\src\main\AndroidManifest.xml:28:13-55
+38            <meta-data
+38-->C:\androidProject\DroidCafeWithSettings_v2\app\src\main\AndroidManifest.xml:29:13-31:49
+39                android:name="android.support.PARENT_ACTIVITY"
+39-->C:\androidProject\DroidCafeWithSettings_v2\app\src\main\AndroidManifest.xml:30:17-63
+40                android:value=".MainActivity" />
+40-->C:\androidProject\DroidCafeWithSettings_v2\app\src\main\AndroidManifest.xml:31:17-46
+41        </activity>
+42    </application>
+43
+44</manifest>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="30sp"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/xValue" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/yValue"
+        android:layout_marginTop="10sp"
+        android:layout_below="@+id/xValue"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/zValue"
+        android:layout_marginTop="10sp"
+        android:layout_below="@+id/yValue"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/xGyroValue"
+        android:layout_marginTop="10sp"
+        android:layout_below="@+id/zValue"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/yGyroValue"
+        android:layout_marginTop="10sp"
+        android:layout_below="@+id/xGyroValue"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/zGyroValue"
+        android:layout_marginTop="10sp"
+        android:layout_below="@+id/yGyroValue"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/xMagnoValue"
+        android:layout_marginTop="10sp"
+        android:layout_below="@+id/zGyroValue"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/yMagnoValue"
+        android:layout_marginTop="10sp"
+        android:layout_below="@+id/xMagnoValue"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/zMagnoValue"
+        android:layout_marginTop="10sp"
+        android:layout_below="@+id/yMagnoValue"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/light"
+        android:layout_marginTop="10sp"
+        android:layout_below="@+id/zMagnoValue"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/pressure"
+        android:layout_marginTop="10sp"
+        android:layout_below="@+id/light"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/temp"
+        android:layout_marginTop="10sp"
+        android:layout_below="@+id/pressure"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/humi"
+        android:layout_marginTop="10sp"
+        android:layout_below="@+id/temp"/>
+
+</RelativeLayout>

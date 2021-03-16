@@ -1,0 +1,15 @@
+com/example/android/SongDetail/SongDetailFragment.java
+ com.example.android.SongDetail.SongDetailFragment
+com/example/android/SongDetail/MainActivity.java
+ com.example.android.SongDetail.MainActivity
+ com.example.android.SongDetail.MainActivity$SimpleItemRecyclerViewAdapter
+ com.example.android.SongDetail.MainActivity$SimpleItemRecyclerViewAdapter$1
+ com.example.android.SongDetail.MainActivity$SimpleItemRecyclerViewAdapter$ViewHolder
+com/example/android/SongDetail/content/SongUtils.java
+ com.example.android.SongDetail.content.SongUtils
+ com.example.android.SongDetail.content.SongUtils$1
+ com.example.android.SongDetail.content.SongUtils$Song
+com/example/android/SongDetail/SongDetailActivity.java
+ com.example.android.SongDetail.SongDetailActivity
+com/example/android/SongDetail/BuildConfig.java
+ com.example.android.SongDetail.BuildConfig
